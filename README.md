@@ -45,7 +45,7 @@ curl -X DELETE http://localhost:8080/quotes/1
 ## Установка и запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/e0m-ru/quote-api.git
+   git clone https://github.com/e0m-ru/quotes-api.git
    cd quote-api
 2. Установите зависимости:
    ```bash
